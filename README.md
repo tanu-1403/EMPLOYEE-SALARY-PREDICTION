@@ -19,10 +19,8 @@ Using **machine learning models (XGBoost, Linear Regression, etc.)**, we aim to 
   - 👨‍💼 Experience  
   - 💼 Job Role / Designation  
   - 🎓 Education  
-  - 📍 Location (if available)  
+  - 📍 Location 
   - 💰 Current Salary  
-
-*(Update this section with actual dataset details — number of rows, columns, source, etc.)*  
 
 ---
 
@@ -49,7 +47,6 @@ Using **machine learning models (XGBoost, Linear Regression, etc.)**, we aim to 
 
 ## 📊 Results  
 - The **XGBoost model** outperformed other models in terms of accuracy and robustness.  
-- (Add a results table or graph here once finalized.)  
 
 ---
 
